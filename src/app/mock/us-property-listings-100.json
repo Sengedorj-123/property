@@ -166,7 +166,11 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 400,
-      "amenities": ["Energy Efficient", "Smart Home Features", "Compact Design"],
+      "amenities": [
+        "Energy Efficient",
+        "Smart Home Features",
+        "Compact Design"
+      ],
       "petFriendly": true,
       "available": "2024-10-20",
       "imageUrl": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80"
